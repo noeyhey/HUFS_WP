@@ -1,0 +1,24 @@
+body { 
+    background-image: url(media/벽지\ 이미지.jpg);
+    background-repeat:repeat
+}
+
+
+#name {font-family: 'Dokdo' ; color: red }
+#picture {font-family: 'Dokdo' ; color: red }
+#major {font-family: 'Dokdo' ; color: red }
+#number {font-family: 'Dokdo' ; color: red }
+#table {font-family: 'Dokdo' ; color: red }
+#singer {font-family: 'Dokdo' ; color: red }
+#blog {font-family: 'Dokdo' ; color: red }
+#food {font-family: 'Dokdo' ; color: red }
+
+.image {
+    box-shadow: 10px 10px black;
+    border: 15px groove brown;
+}
+
+.index {background-color: yellow;}
+
+#투자론 {background-color: aqua;}
+#WP {background-color: greenyellow;}
